@@ -1,0 +1,23 @@
+# Audit outputs — these contain your actual skill/plugin inventory. Never commit.
+*.csv
+findings/
+*_report.html
+audit_report.html
+cleanup_plan.html
+AS_RUN.md
+EXECUTION.md
+
+# Local / session artifacts
+.ignore/
+*.bak
+*.bak-*
+settings.json*
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
