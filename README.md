@@ -1,5 +1,14 @@
 # fable-5-skills-audit
 
+### ▶ [**View the interactive case study →**](https://az9713.github.io/fable-5-skills-audit/)
+
+A live, clickable web page (GitHub Pages) with the animated before/after,
+a clickable breakdown of what was removed and why, and a Skills⇄Plugins toggle.
+GitHub can't run an interactive page *inside* this README, so it lives at the
+link above; the same numbers are in [CASE_STUDY.md](CASE_STUDY.md) as plain text.
+
+---
+
 A reusable methodology for auditing and cleaning up a large Claude Code
 configuration — the personal skills in `~/.claude/skills/` and the plugins in
 `~/.claude/plugins/` — orchestrated with **Fable 5**.
