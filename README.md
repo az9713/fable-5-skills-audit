@@ -1,11 +1,14 @@
 # fable-5-skills-audit
 
-### ▶ [**View the interactive case study →**](https://az9713.github.io/fable-5-skills-audit/)
+[![Interactive case study — click to open the live page](docs/preview.png)](https://az9713.github.io/fable-5-skills-audit/)
 
-A live, clickable web page (GitHub Pages) with the animated before/after,
-a clickable breakdown of what was removed and why, and a Skills⇄Plugins toggle.
-GitHub can't run an interactive page *inside* this README, so it lives at the
-link above; the same numbers are in [CASE_STUDY.md](CASE_STUDY.md) as plain text.
+### ▶ [**Open the interactive case study →**](https://az9713.github.io/fable-5-skills-audit/)
+
+The image above is a preview — **click it** (or the link) for the live GitHub
+Pages version: an animated before/after, a clickable breakdown of what was
+removed and why, and a Skills⇄Plugins toggle. GitHub can't run an interactive
+page *inside* this README, so it lives at that link; the same numbers are in
+[CASE_STUDY.md](CASE_STUDY.md) as plain text.
 
 ---
 
