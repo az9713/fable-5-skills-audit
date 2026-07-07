@@ -68,6 +68,12 @@ and your judgment — the case study documents how they were carried out, but th
 per-item decision files are deliberately **not** published here (they would be
 nothing but one person's private inventory).
 
+## Fable Mode skill
+
+The `skills/fable-mode-skill/` is a reusable Claude Code skill that distills this audit's discipline into a working method: facts-first inventory → verdict vocabulary → gate decisions → reversible planning → scripted execution → verify-by-exercising → machine-derived receipts. Use it for any multi-step engagement (audit, cleanup, migration, publish) or when you want Opus to operate with Fable 5's judgment habits.
+
+For a walkthrough of the discipline and reasoning, see **["How I Make Opus Think Like Fable (5 easy steps)"](https://www.youtube.com/watch?v=XTBWVVcF3Pk)**.
+
 ## Running the inventory on your own machine
 
 Requires Python 3.9+. Read-only — walks your config and writes CSVs to the
